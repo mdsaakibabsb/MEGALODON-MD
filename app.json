@@ -1,5 +1,5 @@
 {
-  "name": "MEGALODON-MD",
+  "name": "YoUr sakib",
   "description": "Javascript WhatsApp bot made by ᴅʏʙʏ ᴛᴇᴄʜ",
   "logo": "https://files.catbox.moe/frns4k.jpg",
   "keywords": ["MEGALODON-MD"],
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "MEGALODON~MD~pZIjGJpZ#ajYUqkeNwDXp4ytwAIrAn4qQU8cnmyFgDMm9V9lXEck",
       "required": true,
       "value": ""
     },  
@@ -83,22 +83,22 @@
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "সাঁপুঁডেঁ বাঁবাঁ",
       "required": false,
-      "value": "ᴅʏʙʏ ᴛᴇᴄʜ*"
+      "value": "সাঁপুঁডেঁ বাঁবাঁ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "8801915761241"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "MEGALODON-MD"
+      "value": "YoUr sakib"
 
       }, 
 
